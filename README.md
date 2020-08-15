@@ -11,7 +11,7 @@ This readme file is a companion to the above paper. It describes how to replicat
 
 The associated files are CAVT1.nb, CAVT2.nb, CAVT1.pdf, CAVT2.pdf, CAVTFigures.nb, glossay.pdf and SupplementaryAppendix.pdf. 
 
-The files can be found at: \href{http:\\www.timworrall.com}{GitHub}.
+The files can be found at: https://github.com/timworrall/CAVT.
 
 SIMULATIONS
 
