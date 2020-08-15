@@ -17,7 +17,7 @@ SIMULATIONS
 
 Simulations were done in Mathematica and are compatible with version 12.0.
 
-There are two separate Mathematica notebook files, CAVT1.nb and CAVT2.nb. CAVT1.nb covers the two-state case used in Figures 1-4 and Tables 2 and 4. CAVT2.nb is for the four-state case presented in Figure 5. The corresponding ``PDF'' versions are also available: CAVT1.pdf and CAVT2.pdf.
+There are two separate Mathematica notebook files, CAVT1.nb and CAVT2.nb. CAVT1.nb covers the two-state case used in Figures 1-4 and Tables 2 and 4. CAVT2.nb is for the four-state case presented in Figure 5. The corresponding PDF versions are also available: CAVT1.pdf and CAVT2.pdf.
 
 The files can be run directly. 
 
@@ -33,7 +33,7 @@ Run the file CAVTFigures.nb after running both CAVT1.nb and CAVT2.nb.
 
 SUPPLEMENTARY APPENDIX
 
-The Supplementary Appendix file SupplementaryAppendix.pdf contains the derivations of equations~(15) and~(16) in the paper.
+The Supplementary Appendix file SupplementaryAppendix.pdf contains the derivations of equations (15) and (16) in the paper.
 
 CONTACT
 
