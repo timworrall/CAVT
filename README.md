@@ -1,5 +1,5 @@
 # CAVT
- Supplementary Materials for "Currency Areas with Voluntary Transfers"
+ Supplementary Materials for "Currency Areas and Voluntary Transfers"
  
  By: Pierre Picard and Tim Worrall
  
@@ -21,9 +21,7 @@ There are two separate Mathematica notebook files, CAVT1.nb and CAVT2.nb. CAVT1.
 
 The files can be run directly. 
 
-Files are annotated to explain notation. Notation follows that of the paper. A letter c is added to indicate the currency area; a letter f to denote the flexible exchange rate regime; a 0 denotes a variable evaluates with no transfer; and a o denotes a variable with the optimal transfer.
-
-For examples of the correspondence between the notation used in the Mathematica notebooks and the paper, see the file glossaty.pdf.
+Files are annotated to explain notation. Notation closely follows that of the paper, which is summarized in the file glossary.pdf. A letter c is added to indicate the currency area; a letter f to denote the flexible exchange rate regime; a 0 denotes a variable evaluates with no transfer; and a o denotes a variable with the optimal transfer.
 
 FIGURE PRODUCTION
 
